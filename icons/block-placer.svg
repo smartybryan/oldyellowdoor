@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#15161a"/>
+  <!-- Purple T piece being placed -->
+  <g fill="#9b00c8">
+    <rect x="9" y="3" width="6" height="6"/>
+    <rect x="2" y="10" width="6" height="6"/>
+    <rect x="9" y="10" width="6" height="6"/>
+    <rect x="16" y="10" width="6" height="6"/>
+  </g>
+  <!-- Bottom row of placed blocks -->
+  <rect x="2" y="24" width="6" height="6" fill="#00cfd5"/>
+  <rect x="9" y="24" width="6" height="6" fill="#d8d000"/>
+  <rect x="16" y="24" width="6" height="6" fill="#00c800"/>
+  <rect x="23" y="24" width="6" height="6" fill="#d86c00"/>
+  <!-- Bevel highlights -->
+  <g fill="#fff" fill-opacity="0.4">
+    <rect x="9" y="3" width="6" height="1.5"/>
+    <rect x="2" y="10" width="6" height="1.5"/>
+    <rect x="9" y="10" width="6" height="1.5"/>
+    <rect x="16" y="10" width="6" height="1.5"/>
+    <rect x="2" y="24" width="6" height="1.5"/>
+    <rect x="9" y="24" width="6" height="1.5"/>
+    <rect x="16" y="24" width="6" height="1.5"/>
+    <rect x="23" y="24" width="6" height="1.5"/>
+  </g>
+</svg>

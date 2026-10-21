@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Yellow door: arched top, nearly square bottom corners -->
+  <path d="M6 12.2A10 10 0 0 1 26 12.2V28.8Q26 30.5 24.3 30.5H7.7Q6 30.5 6 28.8Z"
+        fill="#f2c230" stroke="#b8901a" stroke-width="1.2" stroke-linejoin="round"/>
+  <!-- Little arched window with a cross mullion -->
+  <path d="M11.5 15V11.5A4.5 4.5 0 0 1 20.5 11.5V15Z"
+        fill="#fff6d2" stroke="#b8901a" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M16 7.2V15M11.5 11.8H20.5" stroke="#b8901a" stroke-width="0.9"/>
+  <!-- Door knob -->
+  <circle cx="21.6" cy="20.5" r="1.7" fill="#8a6a10"/>
+</svg>
